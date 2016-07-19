@@ -1,2 +1,2 @@
-# genesis
-startpoint frame for a bower + gulp prototype project
+# In The Beginning...
+A startpoint frame for bower + gulp prototype projects.
