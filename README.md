@@ -1,5 +1,5 @@
 # In The Beginning...
-A startpoint frame for bower + gulp prototype projects.
+A startpoint framework for bower + gulp prototype projects.
 
 
 #### prerequisites:
