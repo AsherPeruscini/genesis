@@ -8,7 +8,7 @@ A startpoint framework for bower + gulp prototype projects.
 
 #### usage: install
 ```shell
-$ bash install-gulp.sh
+$ sudo bash install-gulp.sh
 ```
 
 or
