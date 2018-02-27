@@ -20,7 +20,7 @@ $ sudo npm install
 ```
 
 ##### extras...
-- install gulp-sass (`sudo npm install --global gulp-sass`)
+- install gulp-sass (`sudo npm install gulp-sass -g`)
 
 
 #### usage: setup
