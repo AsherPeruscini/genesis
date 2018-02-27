@@ -32,6 +32,6 @@ _mod `gulpfile.js`_
 
 
 #### usage: run
-- open `terminal`
-- navigate to the pwd, where `gulpfile.js` is located.
-- run `gulp`
+```shell
+gulp
+```
