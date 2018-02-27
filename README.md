@@ -13,9 +13,9 @@ $ bash install-gulp.sh
 
 or
 
--install gulp (`npm install --global gulp`)-
--install gulp-watch (`npm install --global gulp-watch`)-
--install gulp-webserver (`npm install --global gulp-webserver`)-
+- install gulp (`npm install --global gulp`)
+- install gulp-watch (`npm install --global gulp-watch`)
+- install gulp-webserver (`npm install --global gulp-webserver`)
 
 
 ##### extras...
