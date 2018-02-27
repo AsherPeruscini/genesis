@@ -5,13 +5,13 @@ A startpoint framework for bower + gulp prototype projects.
 #### prerequisites:
 - install [node.js](https://nodejs.org/en/)
 ```shell
-sudo npm install --global node
+sudo npm install node -g
 ```
 
 
 #### usage: install
 ```shell
-$ bash install-gulp.sh
+$ sudo npm install
 ```
 
 ##### extras...
