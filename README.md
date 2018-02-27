@@ -3,9 +3,14 @@ A startpoint framework for bower + gulp prototype projects.
 
 
 #### prerequisites:
+- install homebrew
+```shell
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
 - install [node.js](https://nodejs.org/en/)
 ```shell
-sudo npm install node -g
+brew install node
 ```
 
 
