@@ -11,7 +11,7 @@ sudo npm install --global node
 
 #### usage: install
 ```shell
-$ sudo bash install-gulp.sh
+$ bash install-gulp.sh
 ```
 
 or
