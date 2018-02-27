@@ -3,7 +3,10 @@ A startpoint framework for bower + gulp prototype projects.
 
 
 #### prerequisites:
-- install [node.js](https://nodejs.org/en/) (```npm install --global node```)
+- install [node.js](https://nodejs.org/en/)
+```shell
+npm install --global node
+```
 
 
 #### usage: install
