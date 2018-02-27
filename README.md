@@ -14,15 +14,8 @@ sudo npm install --global node
 $ bash install-gulp.sh
 ```
 
-or
-
-- install gulp (`npm install --global gulp`)
-- install gulp-watch (`npm install --global gulp-watch`)
-- install gulp-webserver (`npm install --global gulp-webserver`)
-
-
 ##### extras...
-- install gulp-sass (`npm install --global gulp-sass`)
+- install gulp-sass (`sudo npm install --global gulp-sass`)
 
 
 #### usage: setup
